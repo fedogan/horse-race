@@ -80,7 +80,7 @@
                     <img id="horse5Img" src="images/horse 5 standing.png" alt="">
                 </div>
                 <div class="horseName">
-                    <h1>Bliksem</h1>
+                    <h1>Hurricane</h1>
                 </div>
             </div>
 
